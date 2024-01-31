@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Healthy food client work**
 
-- 🌱 I’m currently learning **Threejs and DSA**
+- 🌱 I’m currently learning **Threejs and go js**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/gauravsdevelop)
 
