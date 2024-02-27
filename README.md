@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Healthy food client work**
+- 🔭 I’m currently working on **Healthy food client work(DenetalExcellance)**
 
-- 🌱 I’m currently learning **Threejs and canvas designing** .
+- 🌱 I’m currently learning **Threejs and canvas designing **.
 
 - 👯 I’m looking to collaborate on Mern proejcts .
 
@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
