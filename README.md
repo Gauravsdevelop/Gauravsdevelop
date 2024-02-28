@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Healthy food client work(DenetalExcellance)**
+- 🔭 I’m currently working on **Healthy food client work (DenetalExcellance) parallally learning software skills in PMKVY skill under 4.0 program **
 
 - 🌱 I’m currently learning **Threejs and canvas designing **.
 
@@ -23,9 +23,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/notifications/?filter=all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Sharma" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/gauravsdevelop target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Gauravsdevelop" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gaurav_79766/?igshid=YTQwZjQ0NmI0OA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_79766" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gaurav_79766/?igshid=YTQwZjQ0NmI0OA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_79766" height="30" width="40" />  </a>
 
-<a href="https://discord.com/channels/@gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gaurav_SHARMA" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gaurav_SHARMA" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
