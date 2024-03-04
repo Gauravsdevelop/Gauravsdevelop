@@ -21,7 +21,7 @@
   
 - 📄 Know about my experiences [ https://drive.google.com/file/d/1ropfnl1XyyMOJEGVdzeZp311_Fw2EPPL/view?usp=drive_link )
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :  </h3>
 <p align="left">
 <a href="https://www.linkedin.com/notifications/?filter=all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Sharma" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/gauravsdevelop target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Gauravsdevelop" height="30" width="40" /></a>
