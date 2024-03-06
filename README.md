@@ -17,7 +17,7 @@
 
 - 📫 How to reach me ** gaurvsdevelop@gmail.com **
   
-- ✨currently doing freelancing work too.
+- ✨currently doing freelancing work too .
   
 - 📄 Know about my experiences [ https://drive.google.com/file/d/1ropfnl1XyyMOJEGVdzeZp311_Fw2EPPL/view?usp=drive_link )
 
