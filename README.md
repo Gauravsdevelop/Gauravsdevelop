@@ -15,7 +15,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/gauravsdevelop)
 
-- 📫 How to reach me ** gaurvsdevelop@gmail.com  **
+- 📫 How to reach me ** gaurvsdevelop@gmail.com **
   
 - ✨currently doing freelancing work too .
   
