@@ -7,7 +7,7 @@
 
 <p align="left">  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Healthy food client work (DenetalExcellance) parallally learning software skills in PMKVY skill under 4.0 program  **
+- 🔭 I’m currently working on **Healthy food client work (DenetalExcellance) parallally learning software skills in PMKVY skill under 4.0  program  **
 
 - 🌱 I’m currently learning **Threejs and canvas designing **. 
 
