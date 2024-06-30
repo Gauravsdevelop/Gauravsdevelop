@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Healthy food client work (DenetalExcellance) parallally learning software skills in PMKVY skill under 4.0 program **
 
-- 🌱 I’m currently learning **Threejs and canvas designing **. 
+- 🌱 I’m currently learning **Threejs and canvas designing  **. 
 
 - 👯 I’m looking to collaborate on Mern proejcts.
 
