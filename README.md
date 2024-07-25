@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on Mern proejcts.
 
-- 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/gauravsdevelop)
+- 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/gauravsdevelop) 
 
 - 📫 How to reach me ** gaurvsdevelop@gmail.com**
   
