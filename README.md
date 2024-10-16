@@ -27,7 +27,7 @@
 <a href="https://codesandbox.io/u/gauravsdevelop target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Gauravsdevelop" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gaurav_79766/?igshid=YTQwZjQ0NmI0OA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_79766" height="30" width="40" /> </a>
   
-<a href="https://discord.com/channels/@gaurav" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gaurav_SHARMA" height="30" width="40" /> </a>
+<a href="https://discord.com/channels/@gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gaurav_SHARMA" height="30" width="40" /> </a>
 
 </p>
 
