@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on **Healthy food client work (DenetalExcellance) parallally learning software skills in PMKVY skill under 4.0 program  **
 
-- 🌱 I’m currently learning **Threejs and canvas designing **. 
-
+- 🌱 I’m currently learning **Threejs and canvas designing **.
+  
 - 👯 I’m ready to collaborate on Mern proejcts .
 
 - 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/gauravsdevelop) 
@@ -20,6 +20,7 @@
 - ✨currently doing freelancing work too . 
   
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C7Nn1Z9o8ZtPi2EFEVAAC63ksG9g_2-I/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
