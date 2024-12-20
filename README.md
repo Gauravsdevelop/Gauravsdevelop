@@ -17,7 +17,7 @@
 
 - 📫 How to reach me ** gaurvsdevelop@gmail.com **
   
-- ✨currently doing freelancing work too . 
+- ✨ also open fot freelancing work  . 
   
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C7Nn1Z9o8ZtPi2EFEVAAC63ksG9g_2-I/view?usp=sharing)
 -  My leetCode id :- [ https://leetcode.com/u/Gauravsdevelop/]
