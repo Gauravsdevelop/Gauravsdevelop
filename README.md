@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Threejs and canvas designing **.
   
-- 👯 I’m ready to collaborate on Mern proejcts .
+- 👯 I’m ready to collaborate with Mern proejcts and all kind of developer projects also.
 
 - 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/gauravsdevelop) 
 
