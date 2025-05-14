@@ -7,7 +7,7 @@
 
 <p align="left">  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at ** TrustPe  ** as a frontend developer
+- 🔭 I’m recently left from** TrustPe Technology ** as developer , now looking for developer role .
 
 - 🌱 I’m currently learning **Threejs and canvas designing **.
   
