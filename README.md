@@ -8,7 +8,7 @@
 
 <p align="left">  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m recently left from** TrustPe Technology ** as developer , now looking for developer and security role .
+- 🔭 I’m recently left from** Decabyte ** as CYber trainer , now looking for developer and security role .
 
 - 🌱 I’m currently learning **Threejs and canvas designing **.
   
